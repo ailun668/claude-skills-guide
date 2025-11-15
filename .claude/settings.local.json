@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd:*)",
+      "Bash(dir:*)",
+      "Bash(while read f)",
+      "Bash(do grep -l \"产品经理\\|PM\\|product.manager\" $f)",
+      "Bash(done)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
